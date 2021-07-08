@@ -1,6 +1,6 @@
 body {
   /* Location of the image */
-  background-image: url(images/redirect_bg1.jpg);
+  background-image: url(images/bg_ai.jpg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -28,6 +28,6 @@ body {
   body {
     /* The file size of this background image is 93% smaller
      * to improve page load speed on mobile internet connections */
-    background-image: url(images/bg_tembok1_phone.png);
+    background-image: url(images/bg_phone.jpg);
   }
 	}
